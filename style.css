@@ -18,7 +18,7 @@ html {
   .clock {
     width: 30rem;
     height: 30rem;
-    border: 20px solid white;
+    border: 40px solid white;
     border-radius: 50%;
     margin: 50px auto;
     position: relative;
@@ -61,3 +61,56 @@ html {
     width: 100%;
     height: 100%;
   }
+p{
+    position: absolute;
+    font-size: 36px;
+    z-index:1
+}
+.Num1{
+    left: 261px;
+    top: -47px;
+}
+.Num2{
+    left: 327px;
+    top: 20px;
+}
+.Num3{
+    left: 348px;
+    top: 107px;
+}
+.Num4{
+    left: 330px;
+    top: 196px;
+}
+.Num5{
+    left: 273px;
+    top: 265px;
+}
+.Num6{
+    left: 167px;
+    top: 299px;
+}
+.Num7{
+    left: 65px;
+    top: 274px;
+}
+.Num8{
+    left: -5px;
+    top: 201px;
+}
+.Num9{
+    left: -20px;
+    top: 116px;
+}
+.Num10{
+    left: -15px;
+    top: 25px;
+}
+.Num11{
+    left: 46px;
+    top: -47px;
+}
+.Num12{
+    left: 154px;
+    top: -73px;
+}
